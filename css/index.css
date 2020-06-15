@@ -88,3 +88,30 @@ body{
     background-color: rgb(240, 175, 240);
     padding: 5rem;
 }
+.footer{
+    display: flex;
+    justify-content: space-around;
+    height: 40vh;
+    margin-top: 5rem;
+}
+.footer-box{
+    width: 30rem;
+    height: 20rem;
+    background-color: rgb(189, 189, 112);
+    border-radius: 3px;
+}
+.footer-text{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.footer-text li{
+    list-style: none;
+}
+.h1-footer{
+    position: absolute;
+    right: 36%;
+    margin-top: 2rem;
+}
+.footer-box img{
+    width: 100%;
+}

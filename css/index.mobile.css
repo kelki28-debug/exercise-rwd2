@@ -11,4 +11,15 @@
     .section{
         margin-bottom: 3rem;
     }
+    .footer{
+        display: block;
+        text-align: center;
+    }
+    .h1-footer{
+        right: 42%;
+    }
+    .footer-box{
+        width: 80%;
+        margin: auto;
+    }
 }
